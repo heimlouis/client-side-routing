@@ -1,0 +1,26 @@
+{
+  "name": "client-side-routing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heimlouis/client-side-routing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heimlouis/client-side-routing/issues"
+  },
+  "homepage": "https://github.com/heimlouis/client-side-routing#readme",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "angular-route": "^1.6.9",
+    "express": "^4.16.2"
+  }
+}
